@@ -4,7 +4,7 @@ import requests
 from tkinter import messagebox
 from PIL import Image, ImageTk
 import ttkbootstrap
-# importing sensitive info like api keys form hidden files
+# importing sensitive info like api keys from hidden files
 import creds
 
 #get the weather information from openweathermap API
