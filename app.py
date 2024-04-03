@@ -1,8 +1,10 @@
+#author:  Ashley Chiteri
 import tkinter as tk
 import requests
 from tkinter import messagebox
 from PIL import Image, ImageTk
 import ttkbootstrap
+# importing sensitive info like api keys form hidden files
 import creds
 
 #get the weather information from openweathermap API
